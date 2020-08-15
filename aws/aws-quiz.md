@@ -124,7 +124,7 @@ AWS Assessment
 - [ ] ORDS
 - [ ] Aurora
 - [ ] Redshift
-- [ ] DynamoDB
+- [x] DynamoDB
 
 
 #### Q18. Which communication channel does SNS not support natively?
