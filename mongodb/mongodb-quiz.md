@@ -166,7 +166,7 @@ MongoDB Assessment
 #### Q26. How often do the members of a replica set send heartbeats to each other?
 	
 	1. every 2 minutes
-	2. every 5 seconds
+	2. every 5 seconds   <<<<<<<--CORRECT
 	3. every 2 seconds
 	4. every 10 seconds
 
